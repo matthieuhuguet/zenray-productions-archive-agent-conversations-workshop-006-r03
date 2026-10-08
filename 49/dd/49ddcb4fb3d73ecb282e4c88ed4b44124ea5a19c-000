@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:019e7def-2111-73a3-87b9-3b05c7dc72cc",
+  "sessionId": "019e7def-2111-73a3-87b9-3b05c7dc72cc",
+  "provider": "codex",
+  "title": "Audit lecture seule dans /Users/zenray/Create/Build/Productions/GithubProductions/ZenRayProgress. Analyse le backbone Create / Notion-like /",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/05/31/rollout-2026-05-31T14-08-04-019e7def-2111-73a3-87b9-3b05c7dc72cc.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/05/31/rollout-2026-05-31T14-08-04-019e7def-2111-73a3-87b9-3b05c7dc72cc.jsonl",
+      "relativePath": "conversations/codex/2918411596d2a8f7/edb5aeb215ac2cbf.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-05-31T12:11:53.200Z",
+  "stagedAt": "2026-10-04T09:24:26.060Z"
+}

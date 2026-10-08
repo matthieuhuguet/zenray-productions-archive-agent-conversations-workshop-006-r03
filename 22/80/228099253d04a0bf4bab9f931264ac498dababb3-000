@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:019e7ed9-407c-7ae2-9288-29acc54f071e",
+  "sessionId": "019e7ed9-407c-7ae2-9288-29acc54f071e",
+  "provider": "codex",
+  "title": "Audit en lecture seule, aucun code. Objectif: produire un inventaire fonctionnel complet pour une feature ZenRay \"Ref\" type PureRef + Miro +",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/05/31/rollout-2026-05-31T18-23-47-019e7ed9-407c-7ae2-9288-29acc54f071e.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/05/31/rollout-2026-05-31T18-23-47-019e7ed9-407c-7ae2-9288-29acc54f071e.jsonl",
+      "relativePath": "conversations/codex/2b4a362cd4db8d11/059d8d6928783820.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-05-31T16:26:52.766Z",
+  "stagedAt": "2026-10-04T09:23:16.018Z"
+}

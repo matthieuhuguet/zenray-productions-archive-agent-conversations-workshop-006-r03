@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:01a10bce-5162-72a0-b738-4ec8574e1ddc",
+  "sessionId": "01a10bce-5162-72a0-b738-4ec8574e1ddc",
+  "provider": "codex",
+  "title": "Conversation codex 01a10bce",
+  "projectId": "vegetation-assets-collection-01",
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl",
+      "relativePath": "conversations/codex/2515de09893a03ff/bd4289ad7669e63e.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-10-07T09:56:31.543Z",
+  "stagedAt": "2026-10-08T08:18:59.279Z"
+}
